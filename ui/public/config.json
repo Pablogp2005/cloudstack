@@ -114,7 +114,7 @@
   "@success-color2": "#52c41a",
   "@warning-color2": "#faad14",
   "@error-color2": "#f5222d",
-  "@font-size-bas2e": "14px", 
+  "@font-size-base2": "14px", 
   "@heading-color2": "rgba(255, 165, 0, 0.85)",
   "@text-color2": "rgba(255, 165, 0, 0.65)",
   "@text-color-secondary2": "rgba(255, 165, 0, 0.45)", 
